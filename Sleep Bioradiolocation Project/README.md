@@ -4,7 +4,7 @@ DAHA DETAYLI BİLGİ İÇİN LÜTFEN EKLEDİĞİM WORD DOSYASINA BAKINIZ...
 
 Sleep Bioradiolocation Deep Learning Project (ORANGE + PHYSIONET)
 
-ÖZET GÖSTERİM
+BAZI SONUÇLARIMIZ...
 
 ![image](https://github.com/isacolakoglu/Artificial_Neural_Network/assets/85408010/42555197-ee08-4619-88e7-659e4b1d4a97)
 
